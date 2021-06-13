@@ -1,0 +1,16 @@
+img{
+    width: 150px;
+    height: 98px;
+}
+button{
+    margin-left: 10px;
+}
+table
+{
+    border-collapse:collapse;    
+}
+td{
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
